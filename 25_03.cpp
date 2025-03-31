@@ -109,6 +109,7 @@ public:
 int main()
 {
 	int m;
+	Kalkulator K;
 
 	//Wybór działania:
 	//Czyszczenie pamięci -> (0)
